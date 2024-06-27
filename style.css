@@ -292,6 +292,7 @@ header {
 .card-container{
     text-align: left;
     display: flex;
+    gap: 50px;
     justify-content: space-between;
 }
 
@@ -327,7 +328,7 @@ header {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-left: 250px;
+    margin-left: 200px;
     position: absolute;
 }
 
